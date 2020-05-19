@@ -14,8 +14,11 @@
 #include "Labyrinth.h"
 
 
+//Jatek kezdese:
 void startGame(int level);
+//Szint/palya inicializalasa:
 void initializeLevel(const char* fileName, int level);
+//Jatekos lepesei:
 int playerSteps(Player* player, Labyrinth* labyrinth);
 
 

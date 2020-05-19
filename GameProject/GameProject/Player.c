@@ -5,10 +5,10 @@
 
 Player* createPlayer(int x, int y) {
 
-	Player* player = (Player*)calloc(1, sizeof(Player));
+	Player* player = (Player*)calloc(1, sizeof(Player));  //helyfoglalas
 	player->x = x;
 	player->y = y;
-	player->points = 0;
+	player->points = 0;  //0- kezdeti erteke a pontszamainak
 	
 	return player;
 }

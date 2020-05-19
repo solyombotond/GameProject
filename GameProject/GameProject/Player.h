@@ -8,14 +8,18 @@
 #include <stdlib.h>
 #include <wchar.h>
 
+//Jatekos struktura letrehozasa:
 typedef struct {
 	int x;
 	int y;
 	int points;
 }Player;
 
+//Jatekos letrehozasa:
 Player* createPlayer(int x, int y);
+//Az x-tengelyen(fuggoleges) valo mozgas:
 void moveX(int value, Player* player);
+//Az y-tengelyen(viszintes) valo mozgas:
 void moveY(int value, Player* player);
 
 

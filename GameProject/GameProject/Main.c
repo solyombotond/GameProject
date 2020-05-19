@@ -9,9 +9,6 @@ int main() {
 	startGame(1);
 
 
-
-
-
 	system("pause");
 	return 0;
 }

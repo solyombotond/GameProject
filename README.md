@@ -1,4 +1,4 @@
-# GameProject
+# GameProject // Tresure hunter
 
 	A játék egy RPG(=Role-Playing Game), olyan játék, melyben főhősünk megküzdve a különböző szintek nehézségeivel, igyekszik
 minél nagyobb pontszámot elérni, újabb és újabb személyi rekordokat felállítani magának. A pontszámok ösztönözni tudják a játékost,
@@ -10,7 +10,17 @@ ahonnat a főhős indul, illetve egy a labirintusból kilépő pontja(E), ahol a
 a labirintust, melyek akadályként szolgálnak a játékos számára.
 	Összefoglalva a játék célja, hogy főhősünk egy adott időintervallum alatt képességeinek megfelelően minél több kincset gyűjtsön
 össze, figyelve arra, hogy az idő lejárta előtt még sikerüljön kijutnia a pályáról, különben a játék számára véget ér és az addig gyűjtött
-kincsek is elvesznek.
+kincsek is elvesznek. Az utolsó szint szörnyek jelenlétével nehezíti játékosunk útját, melyekkel a játékban nincs képessége megküzdeni, 
+ezért jobb, ha elkerüli őket.
+
+Mire kell figyelnie a játékosnak?
+	--> Az időre
+	--> Pontszám
+	--> Szörnyek elkerülése
 
 -->Pontok kincsenként: 10pont/kincs
--->Játék idő: 60sec (1 perc)
+-->Játék idő: 45sec.
+-->Jelölések: P - játékos
+	      * - kincs
+	      E - labirintus kijárata
+	      @ - szörny
